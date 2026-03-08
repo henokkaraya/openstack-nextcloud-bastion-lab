@@ -47,7 +47,7 @@ http://localhost:8080
 - Nextcloud
 - Infrastructure as Code
 
-## Screenshots
+## Documentation
 
 Nextcloud running via SSH tunnel.
 [dokumentation.md](https://github.com/user-attachments/files/25826051/dokumentation.md)
